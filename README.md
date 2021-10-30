@@ -7,5 +7,6 @@ Creating a test calculator for testing Racket GUIs
 - [x] GUI controls
 - [x] Basic expression evaluation
 - [x] Order of Operations
+- [ ] Constants (PI, e)
 - [ ] Unary operators
 - [ ] Paren groups
